@@ -1,0 +1,4 @@
+CLIENT/.metadata/
+*.class
+CLIENT/Tris_Client_Server/target/
+CLIENT/Tris_Client_Server/.settings/
